@@ -17,7 +17,7 @@ Current tools:
 - `curl`
 - `git`
 - `make`
-- aws-cli
+- `aws-cli`
 
 On the aws-cli version we also includes the aws-cli v2 in it.
 
